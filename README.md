@@ -1,2 +1,10 @@
 # imageReader
-Leitor de imagem em python
+Python image reader test
+
+## Configs
+- Install Pillow
+- Install pytesseract
+- Install Google Tesseract
+
+## Execute
+ - python main.py
